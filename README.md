@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nafish</h1>
-<h3 align="center">A passionate Web Developer</h3>
-### Hi, I am Nafish👋
-#### I am a Web Developer
+## Hi, I am Nafish👋
+### I am a Web Developer
 ![I am a Web Developer](https://scontent.fdac33-2.fna.fbcdn.net/v/t39.30808-6/p180x540/270230248_621045595830978_5971830335723681491_n.jpg?_nc_cat=107&_nc_rgb565=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=dpzmXexjKnsAX-S0F4D&tn=D5qS9lBAzf2SSkEQ&_nc_ht=scontent.fdac33-2.fna&oh=00_AT-Dbsvj7dzK6GdxfSbteIQ9eBaGs2qN0TzvOMMybeTrDQ&oe=61D27EF8)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
