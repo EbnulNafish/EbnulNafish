@@ -29,7 +29,7 @@ Skills:  JS / REACT / PHP / HTML / CSS
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://github.com/EbnulNafish</h3>
 <p align="left">
 </p>
 
